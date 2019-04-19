@@ -22,3 +22,13 @@
   clear: both;
   display: table;
 }
+.member-name{
+    color: aliceblue;
+     font-weight: bold;
+}
+
+.member-position{
+     color: aliceblue;
+    font-style: oblique;
+    
+}
