@@ -3,9 +3,6 @@
         border-radius: 50%;
     height: 155px;
     width: 155px;
-    
-    
-    
 }
 .team-image:hover
 {
@@ -28,20 +25,50 @@
     
 }
 
-.wrapper style2{
-    background-color: #1F2428;
+.wrapper.style2 {
+    background: #192024;
+    color: #c5c7c8;
+}
+
+header.major {
+    text-align: center;
+    margin: 0 0 4em 0;
+}
+
+.container {
+    max-width: none!important;
+    min-width: 0!important;
+    width: 90%!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    margin-left: -2.5em!important;
+}
+
+.row:after {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
 }
 
 .member{
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 25px;
 }
 
 .row::after {
   content: "";
   clear: both;
   display: table;
+}
+
+#footer {
+    padding: 4em 0;
 }
 .member-name{
     color: aliceblue;
