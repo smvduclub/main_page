@@ -5,6 +5,27 @@
     width: 155px;
     
     
+    
+}
+.team-image:hover
+{
+   border-radius: 50%;
+    height: 155px;
+    width: 155px;
+    
+    transform: scale(0.9);
+    
+
+
+}
+
+.developer-image{
+    
+        border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    
+    
 }
 
 .wrapper style2{
@@ -31,4 +52,18 @@
      color: aliceblue;
     font-style: oblique;
     
+}
+
+.developer{
+    margin: 10px;
+    align-content: center;
+    
+    
+}
+ 
+
+#ch{
+    
+    margin: 10px;
+    align-content: center;
 }
