@@ -36,7 +36,7 @@ nav ul {
 .nav > li { 
   float: left; 
   border-bottom: 4px #aaa solid; 
-  margin-right: 1px; 
+  margin-right: 20px; 
 } 
 .nav > li > a { 
      text-decoration-style: solid;
