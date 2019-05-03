@@ -22,7 +22,7 @@
 		<!-- Header -->
 			<header id="header" class="alt">
 				<div class="logo"><a href="index.html">smvdu<span>CLUBS</span></a></div>
-				<a href="#menu">Menu</a>
+				<a id="menu1" href="#menu">Menu</a>
 			</header>
 
 		<!-- Nav -->
@@ -492,6 +492,15 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+				function showmenu(){
+					console.log("hi");
+					document.getElementById('menu1').classList.remove('menuheading');
+				};
+				$('body').on('click',function(){
+					document.getElementById('menu1').classList.remove('menuheading');
+				});
+			</script>
 
 	</body>
 </html>

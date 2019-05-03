@@ -17,6 +17,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		outline: 0;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -137,7 +138,6 @@
 		}
 
 	}
-
 	@media screen and (max-width: 980px) {
 
 		.container.\31 25\25 {
@@ -3964,11 +3964,10 @@
 				content: '\f00d';
 				font-size: 1.25rem;
 			}
-
-			#menu .close:hover {
-				color: #000;
+			.menuheading {
+				visibility: hidden;
 			}
-
+			
 			@media screen and (max-width: 736px) {
 
 				#menu .close {
