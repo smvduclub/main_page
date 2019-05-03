@@ -275,13 +275,16 @@ var settings = {
 					skel.breakpoint('medium').active
 				);
 			});
+			document.getElementById('menu1').onclick= function(){
+				document.getElementById('menu1').classList.add('menuheading');
+			};
 
 		// Banner.
 			$banner._slider(settings.banner);
 
 		// Menu.
 			$('#menu')
-				.append('<a href="#menu" class="close"></a>')
+				.append('<a href="#menu" onclick="showmenu()" class="close"></a>')
 				.appendTo($body)
 				.panel({
 					delay: 500,
