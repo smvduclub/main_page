@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"vol",
+				"vol"
+			],
+			[
+				"vo",
+				"vloume1"
+			],
+			[
+				"v",
+				"vol"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"p",
+				"padding-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"g",
+				"geekname"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"hs",
+				"hsla()\tbackground-color"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"hea",
+				"heading"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"t",
+				"text-decoration\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"b",
+				"browse"
+			],
+			[
+				"h",
+				"html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anubhavsingh/portfolio/index.html",
+		"/Users/anubhavsingh/Calculator-Layout-iOS13/Podfile",
+		"/Users/anubhavsingh/Magic-8-Ball-iOS13/Podfile",
+		"/Users/anubhavsingh/Desktop/Dice-app/README.md",
+		"/Users/anubhavsingh/Desktop/aryamanpuri.github.io/index.html",
+		"/Users/anubhavsingh/Desktop/aryamanpuri.github.io/css/style.css",
+		"/Users/anubhavsingh/Documents/portfolio/index.html",
+		"/Users/anubhavsingh/Desktop/portfolio/index.html",
+		"/Users/anubhavsingh/Desktop/rahulrs0029.github.io/_includes/social-links.html",
+		"/Users/anubhavsingh/Desktop/rahulrs0029.github.io/about.md",
+		"/Users/anubhavsingh/Desktop/rahulrs0029.github.io/_posts/2019-01-29-hello-world.md",
+		"/Users/anubhavsingh/Desktop/rahulrs0029.github.io/_config.yml",
+		"/Users/anubhavsingh/Desktop/Amethi/css/education.css",
+		"/Users/anubhavsingh/Amethi/css/front page.css",
+		"/Users/anubhavsingh/Amethi/html/index.html",
+		"/Users/anubhavsingh/Amethi/html/education.html",
+		"/Users/anubhavsingh/myvenv/lib/python3.7/site-packages/django/contrib/admin/static/admin/css/dashboard.css",
+		"/Users/anubhavsingh/Desktop/github/Amethi/html/front page.html",
+		"/Users/anubhavsingh/Documents/GitHub/Amethi/html/front page.html",
+		"/Users/anubhavsingh/Desktop/Amethi/html/front page.html",
+		"/Users/anubhavsingh/Amethi/html/front.html",
+		"/Users/anubhavsingh/Desktop/Amethi/html/industry.html",
+		"/Users/anubhavsingh/Desktop/Amethi/css/front page.css",
+		"/Users/anubhavsingh/Desktop/Amethi/html/education.html",
+		"/Users/anubhavsingh/Documents/civic/index.html",
+		"/Users/anubhavsingh/Amethi/README.md",
+		"/Users/anubhavsingh/Amans__eye/README.md",
+		"/Users/anubhavsingh/Documents/civic/css/owl.carousel.css",
+		"/Users/anubhavsingh/Documents/civic/css/magnific-popup.css",
+		"/Users/anubhavsingh/Documents/civic/css/style.css",
+		"/Users/anubhavsingh/Amethi/html/industry.html",
+		"/Users/anubhavsingh/Amethi/css/industry.css",
+		"/Users/anubhavsingh/Amethi/html/front page.html",
+		"/Users/anubhavsingh/Algorithms-HacktoberFest/C/Insertion sort.c",
+		"/Users/anubhavsingh/Memory-Game/js/index.js",
+		"/Users/anubhavsingh/Memory-Game/css/styles.css",
+		"/Users/anubhavsingh/Hacktoberfest/index.html",
+		"/Users/anubhavsingh/Algorithms-HacktoberFest/C++/selection_sort.cpp",
+		"/Users/anubhavsingh/SuperTinyIcons/README.md",
+		"/Users/anubhavsingh/happy_hacktoberfest_19/index.html",
+		"/Users/anubhavsingh/happy_hacktoberfest_19/contributing.md",
+		"/Users/anubhavsingh/c++/priv.cpp",
+		"/Users/anubhavsingh/How to start web/main.html",
+		"/Users/anubhavsingh/automatic-app-landing-page/_sass/layout.scss",
+		"/Users/anubhavsingh/automatic-app-landing-page/main.scss",
+		"/Users/anubhavsingh/automatic-app-landing-page/_sass/base.scss",
+		"/Users/anubhavsingh/History_of_Statics/project.html",
+		"/Users/anubhavsingh/material/web/test.css",
+		"/Users/anubhavsingh/material/web/test.html",
+		"/Users/anubhavsingh/History_of_Statics/README.md",
+		"/Users/anubhavsingh/scientist/css.css",
+		"/Users/anubhavsingh/scientist/project.html",
+		"/Users/anubhavsingh/c++/calc.cpp",
+		"/Users/anubhavsingh/c++/class/class.cpp",
+		"/Users/anubhavsingh/c++/class/ab.cpp",
+		"/Users/anubhavsingh/Downloads/templated-hielo/index.html",
+		"/Users/anubhavsingh/Downloads/industry/projects copy.html",
+		"/Users/anubhavsingh/Downloads/templated-hielo/assets/js/main.js",
+		"/Users/anubhavsingh/Downloads/industry/about.html",
+		"/Users/anubhavsingh/Downloads/industry/projects.html",
+		"/Users/anubhavsingh/material/c++/lac5/lac6/dowhile.cpp",
+		"/Users/anubhavsingh/material/c++/lac5/lac6/while.cpp",
+		"/Users/anubhavsingh/material/c++/lac5/hw.cpp",
+		"/Users/anubhavsingh/material/c++/lac5/evenfor.cpp",
+		"/Users/anubhavsingh/material/c++/lac5/for.cpp",
+		"/Users/anubhavsingh/material/c++/lacture4/switch.cpp",
+		"/Users/anubhavsingh/material/c++/lacture4/if.cpp",
+		"/Users/anubhavsingh/material/c++/lacture4/ternary.cpp",
+		"/Users/anubhavsingh/material/c++/cpp.cpp",
+		"/Users/anubhavsingh/material/c++/calc.cpp",
+		"/Users/anubhavsingh/Amethi/css/education.css",
+		"/Users/anubhavsingh/material/ html:css/02_More_Font_Properties/styles.css",
+		"/Users/anubhavsingh/material/ html:css/02_More_Font_Properties/fonts.html",
+		"/Users/anubhavsingh/Amethi/html/cpp.cpp",
+		"/Users/anubhavsingh/Amethi/css/industry 13.02.08.html",
+		"/Users/anubhavsingh/Amethi/industry/industry.html",
+		"/Users/anubhavsingh/Amethi/front/front page.html",
+		"/Users/anubhavsingh/Amethi/industry.html",
+		"/Users/anubhavsingh/material/ html:css/intro.html",
+		"/Users/anubhavsingh/titiksha-19/manage.py",
+		"/Users/anubhavsingh/titiksha-19/templates/titiksha18.html",
+		"/Users/anubhavsingh/titiksha-19/static/images/11.jpg",
+		"/Users/anubhavsingh/Documents/html/intro.html",
+		"/Users/anubhavsingh/titiksha-19/static/1.css",
+		"/Users/anubhavsingh/titiksha-19/README.md",
+		"/Users/anubhavsingh/titiksha-19/titiksha/settings.py",
+		"/Users/anubhavsingh/Amethi/html/helloworld.cpp",
+		"/Users/anubhavsingh/Amethi/industry.css",
+		"/Users/anubhavsingh/Amethi/agriculture.html",
+		"/Users/anubhavsingh/Amethi/agriculture.css",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/box model.css",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/box model.html",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/font.css",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/font.html",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/first exe.html",
+		"/Users/anubhavsingh/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/anubhavsingh/Documents/html/todos.css",
+		"/Users/anubhavsingh/Documents/html/todo list.html",
+		"/Users/anubhavsingh/Documents/html/css.css",
+		"/Users/anubhavsingh/Documents/python-blogs/index.html",
+		"/Users/anubhavsingh/Documents/Hello-world-/index.html",
+		"/Users/anubhavsingh/Documents/html/practice.html",
+		"/Users/anubhavsingh/Documents/html/table.html",
+		"/Users/anubhavsingh/Documents/html/revsion.html",
+		"/Users/anubhavsingh/Documents/html/form.html",
+		"/Users/anubhavsingh/Downloads/Hello-world--master/README.md",
+		"/Users/anubhavsingh/Desktop/html/hello world.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
