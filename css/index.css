@@ -1,0 +1,38 @@
+#editorial {
+    border-radius: 4px;
+    background-color: #f4511e;
+    opacity: 0.5;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  #editorial {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  #editorial:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  #editorial:hover {
+    padding-right: 25px;
+  }
+  
+  #editorial:hover:after {
+    opacity: 1;
+    right: 0;
+  }
